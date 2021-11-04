@@ -11,3 +11,5 @@ tambahan baris ke 10(pull)
 baris baru untuk mencoba git push
 
 baris baru untuk push ke github
+
+baris baru untuk mencoba git clone
